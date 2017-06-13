@@ -1,1 +1,1 @@
-# Bachelor_kode
+# Bachelor code
